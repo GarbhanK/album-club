@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rock on album club</title>
+    <link>http://localhost:1313/tags/rock/</link>
+    <description>Recent content in Rock on album club</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2025 01:25:40 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mk.Gee Two Star &amp; the Dream Police</title>
+      <link>http://localhost:1313/blog/mkgee-two-star--the-dream-police/</link>
+      <pubDate>Sun, 16 Feb 2025 01:25:40 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mkgee-two-star--the-dream-police/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-be38-575d-7b07-3fc1c2e7142d/193436368681_FINALARTWORK.jpg/600x600bb.jpg&#34; alt=&#34;migee&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;my thoughts ayy&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
