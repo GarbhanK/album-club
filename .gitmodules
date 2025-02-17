@@ -1,12 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/blank"]
-	path = themes/blank
-	url = https://github.com/vimux/blank
-[submodule "themes/nostyleplease"]
-	path = themes/nostyleplease
-	url = https://github.com/hanwenguo/hugo-theme-nostyleplease.git
 [submodule "themes/bearblog"]
 	path = themes/bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
