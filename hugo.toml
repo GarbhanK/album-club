@@ -2,4 +2,3 @@ baseURL = 'https://example.org/'
 author = "garbhan"
 languageCode = 'en-us'
 title = 'album club'
-theme = 'bearblog'

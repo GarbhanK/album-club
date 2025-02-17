@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ .Content }}
+
+<table>
+    <tr style="background-color: yellow;color: black;">
+        <td>week</td>
+        <td>album 💿</td>
+    </tr>
+{{ range sort (where .Site.RegularPages "Section" "albums") "Params.week" "desc" }}
+    <tr>
+        <td>{{ .Params.Week }}</td>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+    </tr>
+{{ else }}
+    <tr><td>NA</td><td>No posts yet</td></tr>
+{{ end }}
+</table>
+
+{{ end }}
