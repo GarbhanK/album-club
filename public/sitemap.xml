@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/2023/</loc>
+    <loc>https://example.org/tags/2023/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ambient-pop/</loc>
+    <loc>https://example.org/tags/ambient-pop/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/art-pop/</loc>
+    <loc>https://example.org/tags/art-pop/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/</loc>
+    <loc>https://example.org/albums/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/hyperdawn-steady/</loc>
+    <loc>https://example.org/albums/hyperdawn-steady/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-02-16T17:57:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/2025/</loc>
+    <loc>https://example.org/tags/2025/</loc>
     <lastmod>2025-02-16T01:36:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dance/</loc>
+    <loc>https://example.org/tags/dance/</loc>
     <lastmod>2025-02-16T01:36:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/footwork/</loc>
+    <loc>https://example.org/tags/footwork/</loc>
     <lastmod>2025-02-16T01:36:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/khadija-al-hanafi-ok/</loc>
+    <loc>https://example.org/albums/khadija-al-hanafi-ok/</loc>
     <lastmod>2025-02-16T01:36:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/mkgee-two-star--the-dream-police/</loc>
+    <loc>https://example.org/tags/alt-rnb/</loc>
     <lastmod>2025-02-16T01:25:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pop/</loc>
+    <loc>https://example.org/albums/mkgee-two-star--the-dream-police/</loc>
     <lastmod>2025-02-16T01:25:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rnb/</loc>
+    <loc>https://example.org/tags/pop/</loc>
     <lastmod>2025-02-16T01:25:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/members/</loc>
+    <loc>https://example.org/members/</loc>
   </url>
 </urlset>

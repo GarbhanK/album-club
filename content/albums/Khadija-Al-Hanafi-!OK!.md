@@ -4,6 +4,7 @@ draft = false
 title = 'Khadija Al Hanafi - !OK!'
 week = 7
 chosenby = "garbhan"
+genre = "footwork"
 tags = [
     "dance",
     "footwork",

@@ -7,8 +7,8 @@ title = "our album listening club"
 
 every week an album is chosen by a club member
 
-it can be **any** year, **any** genre, and you *don't* have to have listened to it before
+it can be **any** year, **any** genre, and it *doesn't* have to be a first listen
 
-just let us know why you chose that album and we'll all get back before the end of the week with our thoughts
+just say why you chose that album and send our thoughts in before the end of the week
 
-list of albums in chronological order...
+albums we've covered so far

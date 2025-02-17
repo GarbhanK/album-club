@@ -26,7 +26,7 @@
   </ul> -->
   <br>
   <table>
-      <tr><td>date</td><td>album</td><td>chosen by</td></tr>
+      <tr><td>date</td><td>album</td><td>chosen by</td><td>genre</td></tr>
     {{ range .Pages }}
     <tr>
       <td>
@@ -43,6 +43,9 @@
       </td>
       <td>
         {{ .Params.Chosenby }}
+      </td>
+      <td>
+        {{ .Params.Genre }}
       </td>
     </tr>
     {{ else }}
