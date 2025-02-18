@@ -5,6 +5,10 @@
 title = "our album listening club"
 +++
 
+![](/images/construction_pika.gif)
+![](/images/construction_da.gif)
+![](/images/construction_badass.gif)
+
 every week an album is chosen by a club member
 
 it can be **any** year, **any** genre, and it *doesn't* have to be a first listen
