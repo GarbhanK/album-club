@@ -21,6 +21,7 @@
   Simply place a custom_head.html into
   your local /layouts/partials-directory -->
   {{- partial "custom_head.html" . -}}
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 
 <body>
@@ -45,6 +46,12 @@
   <header>
     {{- partial "header.html" . -}}
   </header>
+
+	<img src="../images/construction_pika.gif">
+	<img src="../images/construction_da.gif">
+	<img src="../images/construction_badass.gif">
+
+
   <main>
     {{- block "main" . }}{{- end }}
   </main>

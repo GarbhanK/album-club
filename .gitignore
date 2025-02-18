@@ -1,3 +1,5 @@
 
 # hugo specific files
 .hugo_build.lock
+public/
+
