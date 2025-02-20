@@ -5,14 +5,17 @@
 title = "our album listening club"
 +++
 
-![](/images/construction_pika.gif)
-![](/images/construction_da.gif)
-![](/images/construction_badass.gif)
+![](images/construction_pika.gif)
+![](images/construction_da.gif)
+![](images/construction_badass.gif)
 
-every week an album is chosen by a club member
 
-it can be **any** year, **any** genre, and it *doesn't* have to be a first listen
+Do you want to go to electronica heaven?
 
-just say why you chose that album and send our thoughts in before the end of the week
+Or do you prefer to rock the house on steel strings and a back beat?'
 
-albums we've covered so far
+It doesn't matter if your musical tastes bounce somewhere between psychedelic rock or jazzy chords and downbeats.
+
+Classical, jazz, rock 'n roll, country, R&B, techno, trance or electronia - wherever your music takes you and whatever music means to you, the PlayStation consoles play all your CDs.
+
+
