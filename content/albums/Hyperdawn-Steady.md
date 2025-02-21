@@ -9,6 +9,10 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/00/45/010045c4-
 tags = [
     "ambient pop",
     "art pop",
+    "alt pop",
+    "glitch",
+    "sound collage",
+    "tape music",
     "2023"
 ]
 +++
@@ -19,3 +23,4 @@ new album for week of 17th Feb
 
 - [ ] foo
 - [x] bar
+

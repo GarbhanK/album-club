@@ -8,7 +8,10 @@ genre = "alt rnb"
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-be38-575d-7b07-3fc1c2e7142d/193436368681_FINALARTWORK.jpg/600x600bb.jpg"
 tags = [
     "alt rnb",
-    "pop",
+    "neo-psychedelia",
+    "bedroom pop",
+    "dream pop",
+    "ambient pop",
     "2025"
 ]
 +++

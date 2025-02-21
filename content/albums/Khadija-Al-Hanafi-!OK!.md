@@ -8,6 +8,8 @@ genre = "footwork"
 tags = [
     "dance",
     "footwork",
+    "juke",
+    "Ghettotech",
     "2025"
 ]
 +++
