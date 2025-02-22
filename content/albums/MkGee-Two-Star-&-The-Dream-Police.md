@@ -5,6 +5,7 @@ title = 'Mk.Gee - Two Star & the Dream Police'
 week = 6
 chosenby = "matt"
 genre = "alt rnb"
+origin = "USA"
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-be38-575d-7b07-3fc1c2e7142d/193436368681_FINALARTWORK.jpg/600x600bb.jpg"
 tags = [
     "alt rnb",
