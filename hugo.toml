@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://garbhank.github.io/album-club/'
 author = "garbhan"
 languageCode = 'en-us'
 title = 'album club'
+canonifyURLs = true
+
