@@ -4,7 +4,7 @@ date = "2025-02-25T00:08:46Z"
 draft = false
 week = 9
 chosenby = "garbhan"
-genre = "Chicago Soul"
+genre = "chicago soul"
 origin = "USA"
 release = 1970
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/600x600bb.jpg"
@@ -20,9 +20,9 @@ tags = [
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/600x600bb.jpg)
 
-BBC Review (2008): https://www.bbc.co.uk/music/reviews/ddzf/
+[BBC Review (2008)](https://www.bbc.co.uk/music/reviews/ddzf/)
 
-wiki: https://en.wikipedia.org/wiki/Curtis_(Curtis_Mayfield_album)
+[wiki](https://en.wikipedia.org/wiki/Curtis_(Curtis_Mayfield_album))
 
 ---
 
