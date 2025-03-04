@@ -46,3 +46,18 @@ Sounds like it's gonna be a banger
 Just from the opening of the first song I'm in love lol
 
 
+**matt** (end of the week)
+
+So! I really liked curtis. It had a real positive vibe, absolutely adored the opener and move up (related tracks over below and up). Optimistic album even through the people who are darker than blue. I much preferred the funky stuff to the souly stuff. The funk was much more energy to me. What did you think of it???
+
+
+**garbhan**
+
+Back from the match now. I really loved it, the added strings and stuff associated with Chicago Soul was A1. Move on up is for sure the best song on the album but I found it super consise/consistent
+
+Interesting you picked out the funkier songs as the best because looking back at my favorite tracks they’re mostly souly stuff
+
+The Makings of You got replayed the most, was also a big fan of Miss Black America
+
+I agree opener is such a gem
+
