@@ -57,6 +57,7 @@ Overall I had a good time but didn’t have motivation to go back to it
 What do you think of the album?
 
 **matt**
+
 Listened to it again today. I really liked it! The country elements are mixed in fantastically.
 
 I do enjoy how his voice sounds. It could get grating after a while with how much sauce he puts on it but for me the more I listen the more I like.
