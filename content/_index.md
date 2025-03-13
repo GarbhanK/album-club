@@ -5,11 +5,6 @@
 title = "album listening club"
 +++
 
-![](images/construction_pika.gif)
-![](images/construction_da.gif)
-![](images/construction_badass.gif)
-
-
 Do you want to go to electronica heaven?
 
 Or do you prefer to rock the house on steel strings and a back beat?
