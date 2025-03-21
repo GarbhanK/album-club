@@ -1,0 +1,7 @@
+
+{{- partial "style.html" . -}}
+
+{{ range sort (where .Site.RegularPages "Section" "albums") "Params.week" "desc" | first 1 }}
+<img src="{{ .Params.Cover }}">
+<h3>{{ .Title }}</h3>
+{{ end }}
