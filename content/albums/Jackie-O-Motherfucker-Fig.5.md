@@ -29,4 +29,22 @@ The band has had a revolving door of members, one of which was Weyes Blood. I wa
 
 TAke a look yall: https://rateyourmusic.com/genre/new-weird-america/
 
+
+**garbhan (following week)**
+
+Last week was so busy I only gave that Jackie o album one listen
+
+
 **matt**
+
+Same I listened to it on the plane over and really liked it. Good adventure music to me. An instrumental to an comfy weird film
+
+
+**garbhan**
+
+for the jackie-o album, I was unsure about picking something experimental but I really enjoyed it. There was lots of variety in the instrumentation and the longer songs had me hypnotised in a groove while never dragging or getting boring.
+
+I liked how some of the tracks felt a bit krautrock-ey, probably because of the drums. Some of the samples seemed to be pulled from radio broadcasts? I'm not sure, really cool if they were
+
+My favourite parts were the group vocals that felt like they were recorded from a mic in the middle of a sitting room (go down, old hannah)
+
