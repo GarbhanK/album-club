@@ -4,7 +4,7 @@ date = "2025-05-19T12:15:57+01:00"
 draft = false
 week = 20
 chosenby = "matt"
-genre = "Pop Rap"
+genre = "pop rap"
 origin = "chile"
 release = 2024
 cover = ""
@@ -21,5 +21,4 @@ tags = [
 ]
 +++
 
-This is a page about »Akriila Epistolares«.
-
+![](../../images/covers/akriila-epistolares.jpg)
