@@ -8,6 +8,7 @@ genre = "free folk"
 origin = "USA"
 release = 2000
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/6a/4b/c76a4bb7-0039-a528-204c-6a74192fa561/884385013752_cover.jpg/600x600bb.jpg"
+rym = "https://rateyourmusic.com/release/album/jackie-o-motherfucker/fig-5/"
 tags = [
     "2000",
     "free folk",
@@ -47,4 +48,3 @@ for the jackie-o album, I was unsure about picking something experimental but I 
 I liked how some of the tracks felt a bit krautrock-ey, probably because of the drums. Some of the samples seemed to be pulled from radio broadcasts? I'm not sure, really cool if they were
 
 My favourite parts were the group vocals that felt like they were recorded from a mic in the middle of a sitting room (go down, old hannah)
-

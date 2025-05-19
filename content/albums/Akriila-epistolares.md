@@ -8,6 +8,7 @@ genre = "pop rap"
 origin = "chile"
 release = 2024
 cover = "akriila-epistolares.jpg"
+rym = "https://rateyourmusic.com/release/album/akriila/epistolares/"
 tags = [
     "2024",
     "pop rap",

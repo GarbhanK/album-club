@@ -8,6 +8,7 @@ genre = "downtempo"
 origin = "england"
 release = 1999
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/6f/8e/f86f8efd-bd44-0e67-0c3b-e8961e08414c/5060516090952.png/600x600bb.jpg"
+rym = "https://rateyourmusic.com/release/album/everything-but-the-girl/temperamental/"
 tags = [
     "1999",
     "downtempo",
@@ -23,4 +24,3 @@ tags = [
 
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/6f/8e/f86f8efd-bd44-0e67-0c3b-e8961e08414c/5060516090952.png/600x600bb.jpg)
-

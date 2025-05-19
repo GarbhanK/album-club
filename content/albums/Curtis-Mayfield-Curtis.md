@@ -8,6 +8,7 @@ genre = "chicago soul"
 origin = "USA"
 release = 1970
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/600x600bb.jpg"
+rym = "https://rateyourmusic.com/release/album/curtis-mayfield/curtis/"
 tags = [
     "1970",
     "soul",
@@ -60,4 +61,3 @@ Interesting you picked out the funkier songs as the best because looking back at
 The Makings of You got replayed the most, was also a big fan of Miss Black America
 
 I agree opener is such a gem
-

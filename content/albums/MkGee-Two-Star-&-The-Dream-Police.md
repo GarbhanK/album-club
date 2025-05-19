@@ -8,6 +8,7 @@ genre = "alt rnb"
 origin = "USA"
 release = 2025
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-be38-575d-7b07-3fc1c2e7142d/193436368681_FINALARTWORK.jpg/600x600bb.jpg"
+rym = "https://rateyourmusic.com/release/album/mk_gee/two-star-and-the-dream-police/"
 tags = [
     "alt rnb",
     "neo-psychedelia",
@@ -39,4 +40,3 @@ Yeah first listen was lovely, going to give it another when I’ve time tomorrow
 
 I kinda love the vocal melodies and production in general.
 I get a bit of a frank ocean vibe through it too
-

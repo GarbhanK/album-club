@@ -8,6 +8,7 @@ genre = "Glam Rock"
 origin = "USA"
 release = 1972
 cover = "lou-reed-transformer.jpeg"
+rym = "https://rateyourmusic.com/release/album/lou-reed/transformer/"
 tags = [
     "1972",
     "glam rock",

@@ -8,6 +8,7 @@ genre = "electropop"
 origin = "england"
 release = 2024
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/5e/5d/8e5e5d71-400e-0a6a-98cb-c7744c050c83/198846215747.jpg/600x600bb.jpg"
+rym = "https://rateyourmusic.com/release/album/clarence-clarity/vanishing-act-ii-ultimate-reality/"
 tags = [
     "2024",
     "electropop",
@@ -40,5 +41,3 @@ I enjoyed a few of the tracks. It's cool to see how his sound has changed slight
 I feel this album has more of a hip-hop influence, a bit more beat-heavy. "Rage quitting, quietly" was my favourite track on it. I was busy this week so I didn't have much time with the album, may go back at some point.
 
 what about you?
-
-
