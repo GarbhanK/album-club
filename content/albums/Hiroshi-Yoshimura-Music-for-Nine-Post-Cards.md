@@ -7,7 +7,7 @@ chosenby = "garbhan"
 genre = "ambient"
 origin = "japan"
 release = 1982
-cover = ""
+cover = "hiroshi-yoshimura-music-for-nine-post-cards.jpg"
 tags = [
     "1982",
     "ambient",

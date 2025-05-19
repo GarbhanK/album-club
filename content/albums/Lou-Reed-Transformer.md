@@ -7,7 +7,7 @@ chosenby = "matt"
 genre = "Glam Rock"
 origin = "USA"
 release = 1972
-cover = "https://e.snmc.io/i/fullres/w/b90d510b994e8bae6de2a3a6f0410882/1975840"
+cover = "lou-reed-transformer.jpeg"
 tags = [
     "1972",
     "glam rock",

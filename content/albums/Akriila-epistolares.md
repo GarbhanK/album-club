@@ -7,7 +7,7 @@ chosenby = "matt"
 genre = "pop rap"
 origin = "chile"
 release = 2024
-cover = ""
+cover = "akriila-epistolares.jpg"
 tags = [
     "2024",
     "pop rap",
@@ -17,7 +17,7 @@ tags = [
     "deconstructed club",
     "industrial hip hop",
     "glitch pop",
-    "alternative rnb"
+    "alt rnb"
 ]
 +++
 
