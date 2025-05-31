@@ -8,8 +8,13 @@ genre = ""
 origin = ""
 release = 0
 cover = ""
-tags = [{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}"{{ printf "%s" $term }}",{{ end }}{{ end }}]
+rym = ""
+tags = [
+    "tag1",
+]
 +++
 
 This is a page about »{{ replace .Name "-" " " | title }}«.
+
+![](../../images/covers/{{ replace .Name "-" " " | title }})
 
