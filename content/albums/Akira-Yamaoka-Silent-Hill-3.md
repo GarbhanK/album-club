@@ -2,7 +2,7 @@
 title = "Akira Yamaoka - Silent Hill 3"
 date = "2025-08-11T00:01:49+01:00"
 draft = false
-week = 31
+week = 32
 chosenby = "garbhan"
 genre = "trip hop"
 origin = "japan"
