@@ -7,7 +7,7 @@ chosenby = ""
 genre = ""
 origin = ""
 release = 0
-cover = ""
+cover = "{{ lower .Name }}.jpg"
 rym = ""
 tags = [
     "tag1",
@@ -16,5 +16,5 @@ tags = [
 
 This is a page about »{{ replace .Name "-" " " | title }}«.
 
-![](../../images/covers/{{ replace .Name "-" " " | title }})
+![](../../images/covers/{{ lower .Name }}.jpg)
 
