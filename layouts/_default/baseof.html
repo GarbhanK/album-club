@@ -25,23 +25,6 @@
 </head>
 
 <body>
-    <script>
-    function getRandomInt(max) {
-      return Math.floor(Math.random() * max);
-    }
-
-    pastels = ["#f7f4db", "#f5dada", "#d1e8d8", "#f1d5c1", "#d7deed"];
-
-    function randomBgColour() {
-        let lucky = getRandomInt(pastels.length);
-        console.log(lucky);
-        console.log(pastels[lucky]);
-        document.body.style.background = pastels[lucky];
-    }
-
-    // randomBgColour();
-    </script>
-
   <header>
     {{- partial "header.html" . -}}
   </header>
@@ -60,3 +43,34 @@
 </body>
 
 </html>
+
+<script>
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
+pastels = ["#f7f4db", "#f5dada", "#d1e8d8", "#f1d5c1", "#d7deed"];
+quotes = [
+    "come on welcome to the party",
+    "why you always in a mood",
+    "im only human, after all...",
+    "are you gonna stay the night?...",
+    "you used to, you used to...",
+]
+
+function randomBgColour() {
+    let lucky = getRandomInt(pastels.length);
+    console.log(lucky);
+    console.log(pastels[lucky]);
+    document.body.style.background = pastels[lucky];
+}
+
+function randomQuote() {
+    const idx = getRandomInt(quotes.length);
+    console.log(quotes[idx]);
+    document.getElementById("madeWith").innerText = quotes[idx];
+}
+
+// randomBgColour();
+// randomQuote();
+</script>
