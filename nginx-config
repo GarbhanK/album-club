@@ -1,0 +1,9 @@
+
+server {
+       listen 80;
+       server_name localhost;
+
+       root /home/garbhan/homelab/album-club/public/;
+       index index.html; # Hugo generates HTML
+}
+
