@@ -1,5 +1,5 @@
 +++
-title = "Kraftwerk Autobahn"
+title = "Kraftwerk - Autobahn"
 date = "2025-08-04T23:28:12+01:00"
 draft = false
 week = 31
