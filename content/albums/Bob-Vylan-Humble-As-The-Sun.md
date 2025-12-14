@@ -18,7 +18,6 @@ tags = [
     "big beat",
     "rap rock",
     "UK hip hop",
-    "",
 ]
 +++
 

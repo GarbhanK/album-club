@@ -1,0 +1,96 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ $albums := where .Site.RegularPages "Section" "albums" }}
+
+<!-- Total Albums -->
+<p><strong>Total albums:</strong> {{ len $albums }}</p>
+
+
+<!-- Albums per Year -->
+<h2>albums per year</h2>
+<table>
+  <tr style="background-color: yellow;color: black;">
+    <td>Year</td>
+    <td>Count</td>
+  </tr>
+  {{ range $albums.GroupByDate "2006" }}
+    <tr>
+      <td>{{ .Key }}</td>
+      <td>{{ len .Pages }}</td>
+    </tr>
+  {{ end }}
+</table>
+
+<!-- Albums per Genre -->
+<h2>top genres</h2>
+<table>
+  <tr style="background-color: yellow;color: black;">
+    <td>Genre</td>
+    <td>Count</td>
+  </tr>
+  {{ $genres := slice }}
+  {{ range $albums }}
+    {{ $genres = $genres | append .Params.genre }}
+  {{ end }}
+  {{ $uniqueGenres := $genres | uniq | sort }}
+  {{ range $uniqueGenres }}
+    {{ $count := where $albums "Params.genre" . | len }}
+    <tr>
+      <td>{{ . }}</td>
+      <td>{{ $count }}</td>
+    </tr>
+  {{ end }}
+</table>
+
+<!-- Albums per Contributor -->
+<h2>top contributors</h2>
+<table>
+  <tr style="background-color: yellow;color: black;">
+    <td>Contributor</td>
+    <td>Count</td>
+  </tr>
+  {{ $contributors := slice }}
+  {{ range $albums }}
+    {{ $contributors = $contributors | append .Params.chosenby }}
+  {{ end }}
+  {{ $uniqueContributors := $contributors | uniq | sort }}
+  {{ range $uniqueContributors }}
+    {{ $count := where $albums "Params.chosenby" . | len }}
+    <tr>
+      <td>{{ . }}</td>
+      <td>{{ $count }}</td>
+    </tr>
+  {{ end }}
+</table>
+
+<h2>top tags</h2>
+<table>
+  <tr style="background-color: yellow;color: black;">
+    <td>Genre</td>
+    <td>Count</td>
+  </tr>
+
+  <!-- Collect all tags from all albums -->
+  {{ $allTags := slice }}
+  {{ range $albums }}
+    {{ range .Params.tags }}
+      {{ $allTags = $allTags | append . }}
+    {{ end }}
+  {{ end }}
+
+  <!-- Deduplicate and sort -->
+  {{ $uniqueTags := $allTags | uniq | sort }}
+
+  <!-- Count albums per tag -->
+  {{ range $uniqueTags }}
+    {{ $count := where $albums "Params.tags" "intersect" (slice .) | len }}
+    <tr>
+      <td>{{ . }}</td>
+      <td>{{ $count }}</td>
+    </tr>
+  {{ end }}
+</table>
+
+
+{{ end }}
