@@ -1,19 +1,27 @@
 {{ define "main" }}
 {{ .Content }}
 
-<table>
-    <tr style="background-color: yellow;color: black;">
-        <td>week</td>
-        <td>album 💿</td>
-    </tr>
-{{ range sort (where .Site.RegularPages "Section" "albums") "Params.week" "desc" }}
-    <tr>
-        <td>{{ .Params.Week }}</td>
-        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-    </tr>
-{{ else }}
-    <tr><td>NA</td><td>No posts yet</td></tr>
+{{ $albums := where .Site.RegularPages "Section" "albums" }}
+{{ $albums = $albums.ByDate.Reverse }}
+
+{{ range $albums.GroupByDate "2006" }}
+    <h2>{{ .Key }}</h2>
+
+    <table class="album-table">
+        <tr style="background-color: yellow;color: black;">
+            <td>week</td>
+            <td>album 💿</td>
+        </tr>
+
+        {{ range sort .Pages "Params.week" "desc" }}
+        <tr>
+            <td>{{ .Params.Week }}</td>
+            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        </tr>
+    {{ else }}
+        <tr><td>NA</td><td>No posts yet</td></tr>
+    {{ end }}
+    </table>
 {{ end }}
-</table>
 
 {{ end }}

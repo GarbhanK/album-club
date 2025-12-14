@@ -9,6 +9,7 @@ origin = ""
 release = 0
 cover = "{{ lower .Name }}.jpg"
 rym = ""
+years = ["2026"]
 tags = [
     "tag1",
 ]
@@ -17,4 +18,3 @@ tags = [
 This is a page about »{{ replace .Name "-" " " | title }}«.
 
 ![](../../images/covers/{{ lower .Name }}.jpg)
-
