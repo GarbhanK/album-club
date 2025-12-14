@@ -11,7 +11,6 @@ cover = "kraftwerk-autobahn.jpg"
 rym = "https://rateyourmusic.com/release/album/kraftwerk/autobahn/"
 years = ["1974"]
 tags = [
-    "1974",
     "progressive electronic",
     "krautrock",
     "ambient",

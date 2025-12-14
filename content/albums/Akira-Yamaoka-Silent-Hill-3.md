@@ -11,7 +11,6 @@ cover = "akira-yamaoka-silent-hill-3.jpg"
 rym = "https://rateyourmusic.com/release/album/akira-yamaoka/silent-hill-3/"
 years = ["2003"]
 tags = [
-    "2003",
     "trip hop",
     "video game music",
     "soundtrack",

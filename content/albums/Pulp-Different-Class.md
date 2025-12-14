@@ -11,7 +11,6 @@ cover = "pulp-different-class.jpg"
 rym = "https://rateyourmusic.com/release/album/pulp/different-class/"
 years = ["1995"]
 tags = [
-    "1995",
     "britpop",
     "glam rock",
     "art rock",

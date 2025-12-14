@@ -11,7 +11,6 @@ cover = "bob-vylan-humble-as-the-sun.jpg"
 rym = "https://rateyourmusic.com/release/album/bob-vylan/humble-as-the-sun/"
 years = ["2025"]
 tags = [
-    "2025",
     "political hip hop",
     "rap rock",
     "alternative rock",

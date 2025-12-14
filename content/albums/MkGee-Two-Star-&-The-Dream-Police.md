@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-
 rym = "https://rateyourmusic.com/release/album/mk_gee/two-star-and-the-dream-police/"
 years = ["2025"]
 tags = [
-    "2025",
     "alt rnb",
     "neo-psychedelia",
     "bedroom pop",

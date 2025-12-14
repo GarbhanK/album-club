@@ -11,7 +11,6 @@ cover = "death-scream-blody-gore.jpg"
 rym = "https://rateyourmusic.com/release/album/death/scream-bloody-gore/"
 years = ["1987"]
 tags = [
-    "1987",
     "metal",
     "death metal",
     "thrash metal",

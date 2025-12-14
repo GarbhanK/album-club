@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/5e/5d/8e5e5d71-
 rym = "https://rateyourmusic.com/release/album/clarence-clarity/vanishing-act-ii-ultimate-reality/"
 years = ["2024"]
 tags = [
-    "2024",
     "electropop",
     "glitch pop",
     "alt rnb",

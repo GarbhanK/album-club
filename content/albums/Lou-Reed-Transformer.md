@@ -11,7 +11,6 @@ cover = "lou-reed-transformer.jpeg"
 rym = "https://rateyourmusic.com/release/album/lou-reed/transformer/"
 years = ["1972"]
 tags = [
-    "1972",
     "glam rock",
     "pop rock",
     "art rock"

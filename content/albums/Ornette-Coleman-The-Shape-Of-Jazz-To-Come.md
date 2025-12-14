@@ -11,7 +11,6 @@ cover = "ornette-coleman-the-shape-of-jazz-to-come.jpg"
 rym = "https://rateyourmusic.com/release/album/ornette-coleman/the-shape-of-jazz-to-come-4/"
 years = ["1959"]
 tags = [
-    "1959",
     "jazz",
     "avant-garde",
     "avant-garde jazz",

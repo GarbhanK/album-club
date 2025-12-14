@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-
 rym = "https://rateyourmusic.com/release/album/curtis-mayfield/curtis/"
 years = ["1970"]
 tags = [
-    "1970",
     "soul",
     "chigaco soul",
     "progressive soul",

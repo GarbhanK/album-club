@@ -11,7 +11,6 @@ cover = "akriila-epistolares.jpg"
 rym = "https://rateyourmusic.com/release/album/akriila/epistolares/"
 years = ["2024"]
 tags = [
-    "2024",
     "pop rap",
     "alt pop",
     "neoperreo",

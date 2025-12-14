@@ -11,7 +11,6 @@ cover = "gary-wilson-mary-had-brown-hair.jpg"
 rym = "https://rateyourmusic.com/release/album/gary-wilson/mary-had-brown-hair/"
 years = ["2004"]
 tags = [
-    "2004",
     "synth funk",
     "synthpop",
     "hypnagogic pop",

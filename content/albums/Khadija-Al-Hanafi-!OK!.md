@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/0c/80/680c80c0-
 rym = "https://rateyourmusic.com/release/album/khadija-al-hanafi/_ok/"
 years = ["2025"]
 tags = [
-    "2025",
     "dance",
     "footwork",
     "juke",

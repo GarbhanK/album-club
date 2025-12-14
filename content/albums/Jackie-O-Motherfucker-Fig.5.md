@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/6a/4b/c76a4bb7-
 rym = "https://rateyourmusic.com/release/album/jackie-o-motherfucker/fig-5/"
 years = ["2000"]
 tags = [
-    "2000",
     "free folk",
     "free improvisation",
     "experimental rock",

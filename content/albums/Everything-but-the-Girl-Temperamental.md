@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/6f/8e/f86f8efd-
 rym = "https://rateyourmusic.com/release/album/everything-but-the-girl/temperamental/"
 years = ["1999"]
 tags = [
-    "1999",
     "downtempo",
     "deep house",
     "atmospheric dnb",

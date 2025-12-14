@@ -11,7 +11,6 @@ cover = "pulciperla-tatekieto.jpg"
 rym = "https://rateyourmusic.com/release/album/pulciperla/tatekieto/"
 years = ["2025"]
 tags = [
-    "2025",
     "tropicanibalismo",
     "latin alternative",
     "latin jazz",

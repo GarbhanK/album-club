@@ -11,7 +11,6 @@ cover = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/00/45/010045c4-
 rym = "https://rateyourmusic.com/release/album/hyperdawn/steady/"
 years = ["2023"]
 tags = [
-    "2023",
     "ambient pop",
     "art pop",
     "alt pop",
