@@ -9,6 +9,7 @@ origin = "japan"
 release = 1982
 cover = "hiroshi-yoshimura-music-for-nine-post-cards.jpg"
 rym = "https://rateyourmusic.com/release/album/%E5%90%89%E6%9D%91%E5%BC%98/wave-notation-1-music-for-nine-post-cards/"
+years = ["1982"]
 tags = [
     "1982",
     "ambient",

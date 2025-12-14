@@ -9,13 +9,14 @@ origin = "USA"
 release = 2025
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ea/e4/d3eae41a-be38-575d-7b07-3fc1c2e7142d/193436368681_FINALARTWORK.jpg/600x600bb.jpg"
 rym = "https://rateyourmusic.com/release/album/mk_gee/two-star-and-the-dream-police/"
+years = ["2025"]
 tags = [
+    "2025",
     "alt rnb",
     "neo-psychedelia",
     "bedroom pop",
     "dream pop",
     "ambient pop",
-    "2025"
 ]
 +++
 

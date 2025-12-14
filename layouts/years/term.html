@@ -1,0 +1,11 @@
+{{- partial "style.html" . -}}
+
+<h1>{{ .Title }} albums!</h1>
+
+<table>
+    <tr><td>album</td><td>genre</td></tr>
+    {{ range .Pages.ByDate }}
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.Genre }}</td>
+    {{ end }}
+</table>

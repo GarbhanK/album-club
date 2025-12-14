@@ -9,12 +9,13 @@ origin = "tunisia"
 release = 2025
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/0c/80/680c80c0-ee0b-d806-31cd-11b5513e3b38/198937577587_cover.jpg/600x600bb.jpg"
 rym = "https://rateyourmusic.com/release/album/khadija-al-hanafi/_ok/"
+years = ["2025"]
 tags = [
+    "2025",
     "dance",
     "footwork",
     "juke",
     "Ghettotech",
-    "2025"
 ]
 +++
 

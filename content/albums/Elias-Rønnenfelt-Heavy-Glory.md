@@ -9,6 +9,7 @@ origin = "denmark"
 release = 2024
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/c4/c1/b8c4c13e-e80e-6084-62c6-21a408bb7028/cover.jpg/600x600bb.jpg"
 rym = "https://rateyourmusic.com/release/album/elias-ronnenfelt/heavy-glory/"
+years = ["2024"]
 tags = [
     "2024",
     "singer-songwriter",

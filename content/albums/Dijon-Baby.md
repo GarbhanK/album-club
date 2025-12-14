@@ -9,6 +9,7 @@ origin = "usa"
 release = 2025
 cover = "dijon-baby.jpg"
 rym = "https://rateyourmusic.com/release/album/dijon/baby/"
+years = ["2025"]
 tags = [
     "2025",
     "alt rnb",

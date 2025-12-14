@@ -9,6 +9,7 @@ origin = "england"
 release = 1979
 cover = "the-human-league-reproduction.jpg"
 rym = "https://rateyourmusic.com/release/album/the-human-league/reproduction/"
+years = ["1979"]
 tags = [
     "1979",
     "synthpop",
@@ -20,4 +21,3 @@ tags = [
 +++
 
 ![](../../images/covers/the-human-league-reproduction.jpg)
-

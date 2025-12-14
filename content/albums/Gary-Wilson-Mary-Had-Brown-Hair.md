@@ -9,6 +9,7 @@ origin = "USA"
 release = 2004
 cover = "gary-wilson-mary-had-brown-hair.jpg"
 rym = "https://rateyourmusic.com/release/album/gary-wilson/mary-had-brown-hair/"
+years = ["2004"]
 tags = [
     "2004",
     "synth funk",
@@ -23,4 +24,3 @@ tags = [
 +++
 
 ![](../../images/covers/gary-wilson-mary-had-brown-hair.jpg)
-

@@ -9,6 +9,7 @@ origin = "japan"
 release = 2003
 cover = "akira-yamaoka-silent-hill-3.jpg"
 rym = "https://rateyourmusic.com/release/album/akira-yamaoka/silent-hill-3/"
+years = ["2003"]
 tags = [
     "2003",
     "trip hop",
@@ -24,4 +25,3 @@ tags = [
 +++
 
 ![](../../images/covers/akira-yamaoka-silent-hill-3.jpg)
-

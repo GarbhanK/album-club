@@ -9,6 +9,7 @@ origin = "england"
 release = 1995
 cover = "pulp-different-class.jpg"
 rym = "https://rateyourmusic.com/release/album/pulp/different-class/"
+years = ["1995"]
 tags = [
     "1995",
     "britpop",
@@ -20,4 +21,3 @@ tags = [
 +++
 
 ![](../../images/covers/pulp-different-class.jpg)
-

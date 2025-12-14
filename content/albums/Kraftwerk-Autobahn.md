@@ -9,6 +9,7 @@ origin = "germany"
 release = 1974
 cover = "kraftwerk-autobahn.jpg"
 rym = "https://rateyourmusic.com/release/album/kraftwerk/autobahn/"
+years = ["1974"]
 tags = [
     "1974",
     "progressive electronic",
@@ -22,4 +23,3 @@ tags = [
 
 
 ![](../../images/covers/kraftwerk-autobahn.jpg)
-

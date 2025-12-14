@@ -9,6 +9,7 @@ origin = "USA"
 release = 2000
 cover = "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/6a/4b/c76a4bb7-0039-a528-204c-6a74192fa561/884385013752_cover.jpg/600x600bb.jpg"
 rym = "https://rateyourmusic.com/release/album/jackie-o-motherfucker/fig-5/"
+years = ["2000"]
 tags = [
     "2000",
     "free folk",

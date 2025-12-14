@@ -9,6 +9,7 @@ origin = "england"
 release = 2025
 cover = "the-new-eves-the-new-eve-is-rising.jpg"
 rym = "https://rateyourmusic.com/release/album/the-new-eves/the-new-eve-is-rising/"
+years = ["2025"]
 tags = [
     "2025",
     "folk punk",
@@ -20,5 +21,3 @@ tags = [
 +++
 
 ![](../../images/covers/the-new-eves-the-new-eve-is-rising.jpg)
-
-

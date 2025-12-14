@@ -9,7 +9,9 @@ origin = "england"
 release = 1975
 cover = "mike-oldfield-ommadawn.jpg"
 rym = "https://rateyourmusic.com/release/album/mike-oldfield/ommadawn/"
+years = ["1975"]
 tags = [
+    "1975",
     "celtic new age",
     "progressive rock",
     "progressive folk",
@@ -18,5 +20,3 @@ tags = [
 +++
 
 ![](../../images/covers/mike-oldfield-ommadawn.jpg)
-
-

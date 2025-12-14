@@ -1,0 +1,13 @@
+{{- partial "style.html" . -}}
+
+<h1>Albums by Year</h1>
+
+<ul>
+  {{ range .Data.Terms.Alphabetical.Reverse }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}">
+        {{ .Page.Title }} ({{ .Count }})
+      </a>
+    </li>
+  {{ end }}
+</ul>

@@ -4,6 +4,11 @@ languageCode = 'en-us'
 title = 'album club'
 canonifyURLs = true
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  year = "years"
+
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']

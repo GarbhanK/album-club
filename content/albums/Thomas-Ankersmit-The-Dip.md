@@ -9,6 +9,7 @@ origin = "germany"
 release = 2025
 cover = "tomas-ankersmit-the-dip.jpg"
 rym = "https://rateyourmusic.com/release/album/thomas-ankersmit/the-dip/"
+years = ["2025"]
 tags = [
     "2025",
     "electroacoustic",
@@ -21,4 +22,3 @@ tags = [
 +++
 
 ![](../../images/covers/tomas-ankersmit-the-dip.jpg)
-

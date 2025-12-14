@@ -9,6 +9,7 @@ origin = "usa"
 release = 1959
 cover = "ornette-coleman-the-shape-of-jazz-to-come.jpg"
 rym = "https://rateyourmusic.com/release/album/ornette-coleman/the-shape-of-jazz-to-come-4/"
+years = ["1959"]
 tags = [
     "1959",
     "jazz",
@@ -23,4 +24,3 @@ tags = [
 
 
 ![](../../images/covers/ornette-coleman-the-shape-of-jazz-to-come.jpg)
-

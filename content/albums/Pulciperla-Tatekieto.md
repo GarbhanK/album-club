@@ -9,6 +9,7 @@ origin = "colombia"
 release = 2025
 cover = "pulciperla-tatekieto.jpg"
 rym = "https://rateyourmusic.com/release/album/pulciperla/tatekieto/"
+years = ["2025"]
 tags = [
     "2025",
     "tropicanibalismo",
@@ -25,4 +26,3 @@ tags = [
 +++
 
 ![](../../images/covers/pulciperla-tatekieto.jpg)
-

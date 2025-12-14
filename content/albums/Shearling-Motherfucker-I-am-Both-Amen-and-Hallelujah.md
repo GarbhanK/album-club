@@ -9,6 +9,7 @@ origin = "usa"
 release = 2025
 cover = "shearling-motherfucker-I-am-both-amen-and-hallelujah.jpg"
 rym = "https://rateyourmusic.com/release/album/shearling/motherfucker-i-am-both-amen-and-hallelujah/"
+years = ["2025"]
 tags = [
     "2025",
     "experimental rock",
@@ -22,4 +23,3 @@ tags = [
 +++
 
 ![](../../images/covers/shearling-motherfucker-I-am-both-amen-and-hallelujah.jpg)
-

@@ -9,6 +9,7 @@ origin = "USA"
 release = 1972
 cover = "lou-reed-transformer.jpeg"
 rym = "https://rateyourmusic.com/release/album/lou-reed/transformer/"
+years = ["1972"]
 tags = [
     "1972",
     "glam rock",

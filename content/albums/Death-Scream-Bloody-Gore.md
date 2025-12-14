@@ -9,6 +9,7 @@ origin = "usa"
 release = 1987
 cover = "death-scream-blody-gore.jpg"
 rym = "https://rateyourmusic.com/release/album/death/scream-bloody-gore/"
+years = ["1987"]
 tags = [
     "1987",
     "metal",
@@ -18,5 +19,3 @@ tags = [
 +++
 
 ![](../../images/covers/death-scream-blody-gore.jpg)
-
-
