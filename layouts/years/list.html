@@ -1,6 +1,4 @@
-{{- partial "style.html" . -}}
-
-<h1>Albums by Year</h1>
+{{ define "main" }}
 
 <ul>
   {{ range .Data.Terms.Alphabetical.Reverse }}
@@ -11,3 +9,5 @@
     </li>
   {{ end }}
 </ul>
+
+{{ end }}

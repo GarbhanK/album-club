@@ -5,3 +5,6 @@
 {{ with .Site.GetPage "/albums" }}
 <a href="{{ "albums" | relURL }}">albums</a>
 {{ end }}
+{{ with .Site.GetPage "/years" }}
+<a href="{{ "years" | relURL }}">years</a>
+{{ end }}
