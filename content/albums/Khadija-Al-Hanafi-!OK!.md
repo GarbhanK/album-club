@@ -14,7 +14,7 @@ tags = [
     "dance",
     "footwork",
     "juke",
-    "Ghettotech",
+    "ghettotech",
 ]
 +++
 
